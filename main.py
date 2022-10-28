@@ -27,5 +27,10 @@ def start():
 
     pass
 
+def student1():
+    print("mijn naam is mucahid alkan")
+    print("ik vind mw2 leuk")
+    print("ik wil zometeen naar huis")
+
 
 start()
