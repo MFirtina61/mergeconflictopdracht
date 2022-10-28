@@ -26,5 +26,11 @@ def start():
 
     pass
 
+def student2Haiku():
+    print("Mijn naam is Mostafa Nasar.")
+    print("2")
+    print("3")
+
+
 
 start()
