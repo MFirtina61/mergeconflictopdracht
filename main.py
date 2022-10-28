@@ -27,10 +27,18 @@ def start():
 
     pass
 
+
+
 def student1():
     print("mijn naam is mucahid alkan")
     print("ik vind mw2 leuk")
     print("ik wil zometeen naar huis")
+
+def student2Haiku():
+    print("Mijn naam is Mostafa Nasar.")
+    print("2")
+    print("3")
+
 
 
 start()
